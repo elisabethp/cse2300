@@ -1,0 +1,6 @@
+c:\users\intel\documents\visual studio 2015\Projects\SelectionSortProgram\SelectionSortProgram\bin\Debug\SelectionSortProgram.exe.config
+c:\users\intel\documents\visual studio 2015\Projects\SelectionSortProgram\SelectionSortProgram\bin\Debug\SelectionSortProgram.exe
+c:\users\intel\documents\visual studio 2015\Projects\SelectionSortProgram\SelectionSortProgram\bin\Debug\SelectionSortProgram.pdb
+c:\users\intel\documents\visual studio 2015\Projects\SelectionSortProgram\SelectionSortProgram\obj\Debug\SelectionSortProgram.csprojResolveAssemblyReference.cache
+c:\users\intel\documents\visual studio 2015\Projects\SelectionSortProgram\SelectionSortProgram\obj\Debug\SelectionSortProgram.exe
+c:\users\intel\documents\visual studio 2015\Projects\SelectionSortProgram\SelectionSortProgram\obj\Debug\SelectionSortProgram.pdb
