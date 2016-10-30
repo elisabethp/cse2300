@@ -1,0 +1,3 @@
+c:\users\intel\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\BubbleSortProgram\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\INTEL\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\BubbleSortProgram.exe.config
